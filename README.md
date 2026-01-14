@@ -1,16 +1,40 @@
-## Hi there 👋
+![Banner](github-header-banner.png)
 
-<!--
-**NugrahaAdiKasogi/NugrahaAdiKasogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nugi 👋
+**Student | Learning Web Development**
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Student at __Oxford University__
+- 🌱 Currently learning Machine Learning 3.0
+- 🎯 Goal: Become Milliader and Beat Elon Musk
+- ⚡ Fun fact: Like a meme of Pria Solo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges atau Icon 5 sampai 10 -->
+## Tech Stack 
+- ![HTML](https://img.shields.io/badge/HTML-orange)
+- ![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
+- ![Valo](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
+
+<!-- Widget (Snake Games, Pacman, Spotify) -->
+![Spotify text](https://spotify-recently-played-readme.vercel.app/api?user=31ixl5z5rlnc452uyo3upvymbnda)
+
+<!-- Gif/Image -->
+![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTA1ZnpxMjU1YmxlcjljMTRqNjAwMDE1cmtveWNuZzltNjh5YXY0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdDsb6psTES0eQo8Vg/giphy.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<!-- Link Sosmed -->
+## 🌐Connect With Me
+- [Instagram]()
+- [Email]()
+

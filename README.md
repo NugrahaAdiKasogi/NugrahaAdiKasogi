@@ -1,40 +1,113 @@
 ![Banner](github-header-banner.png)
 
-# Hi, I'm Nugi 👋
-**Student | Learning Web Development**
+# Hi, I'm Nugraha Adiputra 👋
 
-## 👨‍💻 About Me
-- 🎓 Student at __Oxford University__
-- 🌱 Currently learning Machine Learning 3.0
-- 🎯 Goal: Become Milliader and Beat Elon Musk
-- ⚡ Fun fact: Like a meme of Pria Solo
+Computer Science Education graduate (Cum Laude, GPA 3.88/4.00) with hands-on experience in Frontend Development, Data Engineering, Educational Technology, and Digital Product Design.
 
-<!-- Badges atau Icon 5 sampai 10 -->
-## Tech Stack 
-- ![HTML](https://img.shields.io/badge/HTML-orange)
-- ![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
-- ![Valo](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
+I enjoy building user-centered applications, transforming data into actionable insights, and creating technology-driven learning experiences that make complex concepts easier to understand.
 
-<!-- Widget (Snake Games, Pacman, Spotify) -->
-![Spotify text](https://spotify-recently-played-readme.vercel.app/api?user=31ixl5z5rlnc452uyo3upvymbnda)
+---
 
-<!-- Gif/Image -->
-![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTA1ZnpxMjU1YmxlcjljMTRqNjAwMDE1cmtveWNuZzltNjh5YXY0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdDsb6psTES0eQo8Vg/giphy.gif)
+## 🚀 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/pacman-contribution-graph.svg">
-</picture>
+- 🎓 Bachelor of Computer Science Education from Indonesia University of Education
+- 🏆 1st National Champion – Student Digital Innovation Competition (LIDM) 2023
+- 👨‍🏫 Website Development Instructor teaching MERN Stack and Git
+- 📊 Data Practitioner focused on ETL Pipelines, Data Modeling, and Analytics
+- 💻 Frontend Developer specializing in React.js and Next.js ecosystems
+- 🎮 Educational Game Developer using Unity for game-based learning solutions
+- 🎨 UI/UX Designer with experience in educational and business products
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/NugrahaAdiKasogi/NugrahaAdiKasogi/output/snake.svg" alt="Snake animation" />
+## 💡 Areas of Expertise
 
-###
+### Frontend Development
+Building responsive and scalable web applications with modern JavaScript technologies.
 
-<!-- Link Sosmed -->
-## 🌐Connect With Me
-- [Instagram]()
-- [Email]()
+**Tech Stack**
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5 & CSS3
+
+### Data Engineering & Analytics
+Designing data pipelines, transforming raw datasets, and creating analytical dashboards.
+
+**Tech Stack**
+- Python
+- Pandas
+- PostgreSQL
+- Supabase
+- ETL Pipelines
+- Data Warehousing
+- Star Schema
+- Looker Studio
+
+### Educational Technology (EdTech)
+Developing digital learning solutions, curriculum materials, and interactive educational platforms.
+
+**Focus Areas**
+- Learning Management Systems
+- Web Development Education
+- Gamification
+- Curriculum Development
+- Technical Instruction
+
+### Game Development
+Creating educational games that simplify abstract concepts through interactive experiences.
+
+**Tools**
+- Unity
+- C#
+- Game Design
+- Gamification Systems
+
+### UI/UX Design
+Designing intuitive interfaces and digital experiences for web and educational products.
+
+**Tools**
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+
+---
+
+## 🛠 Featured Projects
+
+### 📊 Global Education Data Pipeline
+End-to-end ETL pipeline that transforms raw educational datasets into a PostgreSQL data warehouse using Star Schema architecture and visualizes insights through Looker Studio.
+
+### 🤖 AI Student Impact Dashboard
+Frontend analytics application built with React.js, Tailwind CSS, and Supabase to analyze relationships between Generative AI usage and student academic performance.
+
+### 🎯 Jannah Quest
+Gamified learning platform built with Next.js and Supabase featuring quizzes, progress tracking, and engagement-focused learning experiences.
+
+### 🎮 Edugame Kitchen Code
+Unity-based educational game designed to teach programming algorithms through interactive visual simulations.
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Frontend Architecture
+- Data Engineering Workflows
+- Educational Technology Innovation
+- Interactive Learning Systems
+- Product Analytics
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://nugrahaadiporto.vercel.app
+- LinkedIn: www.linkedin.com/in/nugraha-adiputra-aa98ba237
+- Email: nugrahaadinugi08@gmail.com
+
+---
+
+> Building technology that is useful, educational, and impactful.
 

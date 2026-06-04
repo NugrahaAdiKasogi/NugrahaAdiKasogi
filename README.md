@@ -1,5 +1,3 @@
-![Banner](github-header-banner.png)
-
 # Hi, I'm Nugraha Adiputra 👋
 
 Computer Science Education graduate (Cum Laude, GPA 3.88/4.00) with hands-on experience in Frontend Development, Data Engineering, Educational Technology, and Digital Product Design.
